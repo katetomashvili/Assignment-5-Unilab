@@ -1,0 +1,55 @@
+.clear {
+	clear: both;
+}
+.f-left {
+	float:left;
+}
+.f-right {
+    float: right;
+}
+.first-container{
+    width: 1088px;
+    margin: 103px auto 0;
+
+}
+.little-header{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: #5863F8;
+    text-transform: uppercase;
+    width: 92px;
+    height: 20px;
+    opacity: 1;
+}
+.bigger-header{
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+    font-size: 42px;
+    width: 498px;
+    height: 115px;
+}
+.little-photo{
+    width: 168px;
+    height: 190px;
+    margin-right: 16px;
+}
+.smaller-header{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+}
+.p-text{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: #B1B1B1;
+    width: 260px;
+    height: 62px;
+}
+.first-of-first{
+    background-color: #F8F8F8;
+    width: 536px;
+    height: 190px;
+    display: inline-block;
+}
+.food-text{
+    margin-top: 37px;
+}
