@@ -57,3 +57,59 @@
     width: 1088px;
     margin: 103px auto 0;
 }
+.stone-photo{
+    width: 352px;
+    height: 212px;
+}
+.little-header2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: #5863F8;
+    text-transform: uppercase;
+    width: 102px;
+    height: 20px;
+    opacity: 1;
+    text-align: center;
+    margin-top: 23px;
+    display: inline-block;
+    margin-left: 125px;
+    margin-top: 23px;
+}
+.smaller-header2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    margin-left: 63px;
+}
+.p-text2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: #B1B1B1;
+    margin: 10px 46px 46px 23px;
+    width: 260px;
+    height: 42px;
+}
+.food-div{
+    display: inline-block;
+    margin-top: -375px;
+    float: left;
+    display: inline-block;
+    margin-left: 375px;
+}
+.food-photo2{
+    width: 352px;
+    height: 212px;
+}
+.stone-div{
+    display: inline-block;
+}
+.cupcake-photo2{
+    width: 352px;
+    height: 212px;
+    margin-left: 16px;
+}
+.cupcake-div{
+    width: 352px;
+    height: 212px;
+    margin-top: -375px;
+    float: right;
+}
